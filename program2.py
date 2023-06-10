@@ -8,3 +8,4 @@ print(srednia(moja_lista))
 
 #to jest 1 edycja
 #to jest 2 edycja
+#to jest 3 edycja
